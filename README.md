@@ -16,6 +16,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/keven santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keven santos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keven santos](https://www.linkedin.com/in/keven-santos-378974203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keven santos" height="30" width="40" /></a>
 <a href="https://instagram.com/keven_santos84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keven_santos84" height="30" width="40" /></a>
 </p>
